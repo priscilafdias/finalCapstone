@@ -1,5 +1,5 @@
 # finalCapstone
-# This code will change an initial sentence using the Caesar Cypher through a key with the difference of 15 letters between them, having their special characters preserved.
+This code will change an initial sentence using the Caesar Cypher through a key with the difference of 15 letters between them, having their special characters preserved.
 If you open the code, you can see how it works and I will help you to understand it.
 Let's go?
 Follow the steps :)
